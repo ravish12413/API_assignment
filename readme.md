@@ -1,5 +1,5 @@
-In this assignment project we were told to create and implement api modules in nodejs .
-here we have performed 4 action :
+In this assignment project we were told to create and implement api modules in nodejs . <br>
+here we have performed 4 action :<br>
 1. add users
 2. chnage status of user
 3. get users in array
